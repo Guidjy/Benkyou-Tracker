@@ -1,2 +1,2 @@
 # Benkyou-Tracker
-An online activity and progress tracking tool for japanese language learners
+An online immersion and progress tracking tool for japanese language learners
